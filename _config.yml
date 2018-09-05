@@ -5,11 +5,11 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: pr0loc
+description: Empreendedorismo, tecnologia e inovação
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -22,8 +22,8 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: pr0loc # replace by your username
+facebook: pr0loc # replace by your username
 
 # Disqus
 disqus: False
@@ -66,8 +66,8 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: pr0loc
+repo: pr0loc.github.io
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
